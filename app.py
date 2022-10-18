@@ -6,10 +6,6 @@ st.write("""
 # Esta es la primera prueba 
 """)
 
-from streamlit_echarts import JsCode
-from streamlit_echarts import st_echarts
-
-
 def render_basic_bar():
     options = {
         "xAxis": {
