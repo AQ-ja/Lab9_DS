@@ -1,5 +1,3 @@
-from ctypes import windll
-from curses import window
 import streamlit as st 
 from pyecharts import options as opts
 from pyecharts.charts import Bar
