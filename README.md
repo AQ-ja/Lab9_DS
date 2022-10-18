@@ -4,6 +4,6 @@
 
 https://docs.google.com/document/d/1BJSTX9IgWL_-iW7GDE2rR5lCZb_JVaDsOrAAwOwrF9I/edit?usp=sharing
 
-## Asi como tambien aca se puede encontrar el link correspondiente a la aplicacion visual: 
+## Asi como tambien aca se puede encontrar el link correspondiente a la aplicacion: 
 
 https://aq-ja-lab9-ds-app-soersw.streamlitapp.com/
