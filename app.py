@@ -6,4 +6,4 @@ st.write("""
 """)
 
 df = pd.read_csv("Importaciones.csv")
-st.line_chart(df)
+st.dataframe(df)
